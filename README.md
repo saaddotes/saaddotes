@@ -70,13 +70,6 @@
 
 # Projects
 
-## [Vegetables Store](https://aalupyaz.vercel.app/)
-Developed Vegetable Store, a responsive Next.js e-commerce website with Firebase and Cloudinary, featuring smart search, real-time updates, and seamless product and cart management.
-
-Tech Stack: Next.js | Firebase | Cloudinary  
-
----
-
 ## [Quick Chat](https://chatapp-pi-green.vercel.app/chat)
 A real-time chat app using Next.js, Firebase, shadcn, and Framer Motion, featuring user login, member addition, group creation, and chatting with a smooth and responsive UI.
 
@@ -95,6 +88,13 @@ Tech Stack: Next.js | Firebase | Shadcn
 Route Master helps transport supervisors manage vehicle bookings, expenses, shifts, and drivers. It makes fleet operations easier by tracking bookings, managing costs, and organizing driver schedules.
 
 Tech Stack: Next.js | Firebase  
+
+---
+
+## [Vegetables Store](https://aalupyaz.vercel.app/)
+Developed Vegetable Store, a responsive Next.js e-commerce website with Firebase and Cloudinary, featuring smart search, real-time updates, and seamless product and cart management.
+
+Tech Stack: Next.js | Firebase | Cloudinary  
 
 ---
 
