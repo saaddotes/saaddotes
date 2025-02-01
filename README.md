@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hi, I'm AfaqDev!</h1>
+<h1 align="center">Hi, I'm Saad Ali!</h1>
 <h2 align="center">MERN full-stack Developer</h2>
 
 ###
