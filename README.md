@@ -50,6 +50,7 @@
   <a href="https://www.linkedin.com/in/saaddotes" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="linkedin logo"  />
   </a>
+    <img width="12" />
   <a href="https://twitter.com/saaddotes" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" width="52" height="40" alt="twitter logo"  />
   </a>
